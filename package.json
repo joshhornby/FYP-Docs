@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "aglio": "^1.16.2",
+    "browser-sync": "^1.7.2",
+    "gulp": "^3.8.10",
+    "gulp-run": "^1.6.4",
+    "gulp-shell": "^0.2.11",
+    "require-dir": "^0.1.0",
+    "util": "^0.10.3"
+  }
+}
